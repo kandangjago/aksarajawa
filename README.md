@@ -1,2 +1,2 @@
 # aksarajawa
-Untuk aksara Jawa di website
+Untuk aksara Jawa di website dan blog
